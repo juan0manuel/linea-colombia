@@ -1,0 +1,121 @@
+body{
+    background-color: black;
+}
+h1{
+    color:rgb(247, 0, 255);
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.container {
+    position: relative;
+  }
+  .subtitulos1, .subtitulos2, .subtitulos3, .subtitulos4, .subtitulos5, .subtitulos6, .subtitulos7, .subtitulos8, .subtitulos9, .subtitulos10 {
+    position: absolute;
+    text-shadow: 1px 1px cyan;
+  }
+  .subtitulos1 {
+    color: yellow;
+    left: 0px;
+    top: 130px;
+  }
+  .subtitulos2 {
+    color: blue;
+    left: 210px;
+    top: 220px;
+  }
+  .subtitulos3 {
+    color: red;
+    left: 367px;
+    top: 130px;
+  }
+  .subtitulos4 {
+    color: yellow;
+    left: 550px;
+    top: 220px;
+  }
+  .subtitulos5 {
+    color: blue;
+    left: 660px;
+    top: 130px;
+  }
+  .subtitulos6 {
+    color: red;
+    left: 820px;
+    top: 220px;
+  }
+  .subtitulos7 {
+    color: yellow;
+    left: 977px;
+    top: 130px;
+  }
+  .subtitulos8 {
+    color: blue;
+    left: 1100px;
+    top: 220px;
+  }
+  .subtitulos9{
+    color:red;
+    left: 1230px;
+    top : 130px;
+  }
+  .subtitulos10{
+    color:yellow;
+    left: 1350px;
+    top: 220px;
+  }
+.container {
+    position: relative;
+  }
+  .subtitulos11, .subtitulos12, .subtitulos13, .subtitulos14,.subtitulos15, .subtitulos16, .subtitulos17, .subtitulos18, .subtitulos19{
+    position: absolute;
+    text-shadow: 1px 1px magenta;
+  }
+  .subtitulos11 {
+    color: blue;
+    left: 0px;
+    top: 400px;
+  }
+  .subtitulos12 {
+    color: red;
+    left: 150px;
+    top: 520px;
+  }
+  .subtitulos13 {
+    color: yellow;
+    left: 300px;
+    top: 430px;
+  }
+  .subtitulos14 {
+    color: blue;
+    left: 500px;
+    top: 520px;
+  }
+  .subtitulos15 { 
+    color: red; 
+    left: 700px; 
+    top: 430px; 
+}
+  .subtitulos16 { 
+    color: yellow; 
+    left: 900px; 
+    top: 520px; 
+}
+  .subtitulos17 { 
+    color: blue; 
+    left: 1000px; 
+    top: 430px; 
+}
+  .subtitulos18 { 
+    color: red; 
+    left: 1200px; 
+    top: 520px; 
+}
+  .subtitulos19 {
+    color:yellow;
+    left: 1300px;
+    top: 430px;
+  }
+  
